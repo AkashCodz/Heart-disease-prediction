@@ -50,6 +50,33 @@ Start the server
 ```
 
 
+## Screenshots
+
+### SignUp page
+
+![Screenshot 2022-09-17 185732](https://user-images.githubusercontent.com/101062599/190860018-567e98c7-5139-4a97-b83c-039cd10e5eaa.png)
+
+### Login page
+
+![Screenshot 2022-09-17 185803](https://user-images.githubusercontent.com/101062599/190860027-ba2bb556-53fc-4793-80d8-96431bf473ed.png)
+
+### Heart disease prediction model
+
+![Screenshot 2022-09-17 190008](https://user-images.githubusercontent.com/101062599/190860032-85febad6-7fed-468b-95b9-ceb07f819180.png)
+
+### Inputting values
+
+![Screenshot 2022-09-17 190342](https://user-images.githubusercontent.com/101062599/190860036-f085f41e-6cc6-4ccb-9820-5d73694c3d38.png)
+
+### Get the result
+
+![Screenshot 2022-09-17 190529](https://user-images.githubusercontent.com/101062599/190860040-0e74023b-6d11-4a8b-9313-5335da614369.png)
+
+### Logout
+
+![Screenshot 2022-09-17 190554](https://user-images.githubusercontent.com/101062599/190860047-02e93ab0-0564-4940-a090-05e7328e27ca.png)
+
+
 ## Features
 
 - Signup
@@ -124,9 +151,4 @@ happily i solve the problems with my deep consistency.
 
 Errors and area of project are main challenges for me, i solve these 
 things read user guide and documentation of them.
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
