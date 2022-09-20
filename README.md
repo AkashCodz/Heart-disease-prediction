@@ -89,7 +89,7 @@ Start the server
 
 
 ## 🚀 About Me
-I'm a full stack developer and Machine learning Engineer.
+I'm a full stack developer and Machine learning Intern.
 
 
 ## Other Common Github Profile Sections
